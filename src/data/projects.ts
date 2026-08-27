@@ -10,7 +10,7 @@ export const PROJECTS = [
     description: 'Vunli is a personal finance AI Agent designed to solve the common pain point of tracking unessential expenses. The application reads real user data and leverages natural language processing to intelligently categorize transactions, analyze spending contexts, and answer financial inquiries. It helps users maintain financial discipline and begin their journey toward financial freedom.',
     details: ['Requirement Analysis', 'System Design', 'AI Agent', 'Personal Finance'],
     image: vunliImage,
-    link: 'https://vunlifinmate.vercel.app/'
+    link: 'https://www.vunli.io.vn/login'
   },
   {
     id: 1,
