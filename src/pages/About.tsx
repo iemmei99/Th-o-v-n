@@ -15,10 +15,25 @@ const MENU = [
 
 const EXPERIENCES = [
   {
+    company: 'GTINX - Global Technology Industry Corporation (formerly GTEL - Ministry of Public Security)',
+    role: 'Business Analyst & QC',
+    project: '(National Key Project - Full-Lifecycle Case Management Platform)',
+    time: '04/2026 - Present',
+    description: [
+      '<strong>Business Process Analysis & Modeling (BPMN):</strong> Surveyed, designed, and standardized business process workflows for assigned court jurisdiction modules. Proactively audited and restructured process documentation based on legacy documents and actual codebase logic.',
+      '<strong>System Documentation Management:</strong> Directly reviewed, refined, and maintained Detailed System Design documents and Software Requirements Specifications (SRS). Standardized system-generated document and official dispatch templates to strictly comply with State regulatory standards.',
+      '<strong>User Enablement & System Demonstrations:</strong> Authored comprehensive User Manuals and produced step-by-step instructional demonstration videos. Participated in system demo sessions to collect feedback from expert panels. Conducted hands-on software training for judicial officers during training workshops.',
+      '<strong>Data Migration & SQL Testing:</strong> Authored SQL queries to extract database records, performing data reconciliation and verifying data accuracy and integrity throughout the legacy-to-new system migration.',
+      '<strong>Test Automation (Playwright):</strong> Utilized the Playwright framework to write automated test scripts for input data generation, significantly reducing data preparation time for cross-module integration test scenarios.',
+      '<strong>Test Scenario Design & UAT Acceptance:</strong> Analyzed system specifications to design test cases and User Acceptance Testing (UAT) scenarios for complex functional modules.',
+      '<strong>Defect Management:</strong> Executed functional testing across Staging and UAT environments. Logged bugs, tracked defect lifecycles, and collaborated closely with the development team to resolve critical system issues.'
+    ]
+  },
+  {
     company: 'FPT SOFTWARE',
     role: 'Business Analyst Trainee',
     project: '(Assistant Agent for PM project)',
-    time: '05/2026 - Present',
+    time: '12/2025 - 03/2026',
     description: [
       '<strong>Requirements Analysis:</strong> Collected and clarified requirements with the PM and stakeholders; defined scope, business rules, and acceptance criteria for the feature.',
       '<strong>Agent Logic Design:</strong> Analyzed factors affecting project progress and defined risk evaluation principles, risk classification rules, conversation flow, and Agent response behavior.',
@@ -32,7 +47,7 @@ const EXPERIENCES = [
   {
     company: 'WOODCHILL AWPC JSC',
     role: 'E-commerce Executive - Etsy Platform',
-    time: '04/2025 - 03/2026',
+    time: '08/2024 - 10/2025',
     description: [
       '<strong>Business Operations Analysis:</strong> Developed a strong understanding of end-to-end e-commerce operations and continuously monitored Etsy platform policies, processes, and market changes.',
       '<strong>Root Cause Analysis:</strong> Analyzed the causes of order delays across production, fulfillment, shipping, customer service, and after-sales processes; contributed to workflow improvements and cross-functional coordination.',
@@ -115,7 +130,7 @@ const SKILL_GROUPS = [
   {
     title: 'BA Tools',
     description: 'Proficiency in tools for BA operations and development workflows.',
-    skills: ['Draw.io', 'Figma', 'PlantUML', 'Lucidchart', 'Camunda', 'Claude.ai', 'Stitch', 'Jira', 'NotebookLM', 'Google AI Studio', 'Claude']
+    skills: ['Draw.io', 'Figma', 'PlantUML', 'Lucidchart', 'Camunda', 'Playwright', 'Claude.ai', 'Stitch', 'Jira', 'NotebookLM', 'Google AI Studio', 'Claude']
   },
   {
     title: 'Soft Skills',
